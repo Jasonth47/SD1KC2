@@ -1,0 +1,15 @@
+C:\Users\jason\source\repos\SD1KC2\SD1KC2\bin\Debug\net6.0\SD1KC2.exe
+C:\Users\jason\source\repos\SD1KC2\SD1KC2\bin\Debug\net6.0\SD1KC2.deps.json
+C:\Users\jason\source\repos\SD1KC2\SD1KC2\bin\Debug\net6.0\SD1KC2.runtimeconfig.json
+C:\Users\jason\source\repos\SD1KC2\SD1KC2\bin\Debug\net6.0\SD1KC2.dll
+C:\Users\jason\source\repos\SD1KC2\SD1KC2\bin\Debug\net6.0\SD1KC2.pdb
+C:\Users\jason\source\repos\SD1KC2\SD1KC2\obj\Debug\net6.0\SD1KC2.csproj.AssemblyReference.cache
+C:\Users\jason\source\repos\SD1KC2\SD1KC2\obj\Debug\net6.0\SD1KC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\source\repos\SD1KC2\SD1KC2\obj\Debug\net6.0\SD1KC2.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\SD1KC2\SD1KC2\obj\Debug\net6.0\SD1KC2.AssemblyInfo.cs
+C:\Users\jason\source\repos\SD1KC2\SD1KC2\obj\Debug\net6.0\SD1KC2.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\SD1KC2\SD1KC2\obj\Debug\net6.0\SD1KC2.dll
+C:\Users\jason\source\repos\SD1KC2\SD1KC2\obj\Debug\net6.0\refint\SD1KC2.dll
+C:\Users\jason\source\repos\SD1KC2\SD1KC2\obj\Debug\net6.0\SD1KC2.pdb
+C:\Users\jason\source\repos\SD1KC2\SD1KC2\obj\Debug\net6.0\SD1KC2.genruntimeconfig.cache
+C:\Users\jason\source\repos\SD1KC2\SD1KC2\obj\Debug\net6.0\ref\SD1KC2.dll
